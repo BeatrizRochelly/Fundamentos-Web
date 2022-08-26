@@ -54,7 +54,23 @@
 
 }
 
+.m-30{
+    margin-right: 100px;
+}
 
+.p-50{
+    padding-left: 50px;
+}
+
+.img{
+   
+    border-radius: 20px;
+      
+}
+
+#center{
+    text-align: center;
+}
 /*Estilo da página sugestoes.html*/
 
 #direito {
@@ -62,4 +78,8 @@
     color: black;
     font-size: 15px;
     text-align: center;
+}
+
+.centro{
+    text-align: center
 }
