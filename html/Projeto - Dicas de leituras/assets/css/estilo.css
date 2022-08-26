@@ -1,0 +1,99 @@
+/*Estilos de página index.html*/
+.titulo {
+    font-size: 35px;
+    color: rebeccapurple;
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+    font-size: 30px;
+    color: rebeccapurple;
+}
+
+.container {
+    display: flex;
+    flex-flow: row;
+    justify-content: flex-end;
+    align-items: center;
+    color: black;
+    font-size: 18px;
+}
+
+#menu li {
+    display: inline;
+    margin: 15px;
+    font-size: 16px;
+    color: black;
+    padding-left: 20px;
+
+}
+
+#menu li a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+#menu li a:hover {
+    color: blueviolet;
+}
+
+.p-30 {
+    padding: 30px;
+
+}
+
+#direitonome {
+    text-align: center;
+    color: black;
+    font-size: 15px;
+    text-align: center;
+}
+
+.tm-social {
+
+    width: 50px;
+    height: 50px;
+    align-items: center;
+    padding: 18px;
+}
+
+.img {
+    align-items: center;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+
+}
+
+.espaco {
+    margin-left: 20px;
+}
+
+.corlinha {
+    color: purple;
+
+}
+
+.justify {
+    text-align: justify;
+}
+
+/*Estilo da página sugestoes.html*/
+
+.container{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.ml-300{
+margin-left: 300px;
+}
+
+
